@@ -72,11 +72,11 @@ Ghi vào bảng:
 
 | # | Tên tài liệu | Nguồn | Số ký tự | Metadata đã gán |
 |---|--------------|-------|----------|-----------------|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+| 1 | caremark-oct2013.txt | https://github.com/ericminikel/cnsdrugs.git | 26.541 | doc_type: formulary_guide, year: 2013 |
+| 2 | customer_support_playbook.txt | https://github.com/ericminikel/cnsdrugs.git | 12.450 | doc_type: sop_playbook, year: 2025 |
+| 3 | healthalliance-2013.txt | https://github.com/ericminikel/cnsdrugs.git | 16.892 | doc_type: formulary_guide, year: 2013 |
+| 4 | FDAMDD_v3b_1216_15Feb2008_nostructures.txt | https://github.com/ericminikel/cnsdrugs.git | 485.610| doc_type: fda_chemical_registry, year: 2008|
+| 5 | humana_2014_wi.txt | https://github.com/ericminikel/cnsdrugs.git | 321.405| doc_type: formulary_guide, year: 2014 |
 
 **Step 3 — Thiết kế metadata schema:** Mỗi tài liệu cần ít nhất 2 trường metadata hữu ích (e.g., `category`, `date`, `source`, `language`, `difficulty`).
 
