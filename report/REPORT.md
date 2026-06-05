@@ -204,10 +204,10 @@ PS C:\Users\kodau\OneDrive\Desktop\Vin\Lab\Day7\Day-07-Lab-Data-Foundations>
 
 | Pair | Sentence A | Sentence B | Dự đoán | Actual Score | Đúng? |
 |------|-----------|-----------|---------|--------------|-------|
-| 1 | The customer forgot their password and requested an account reset. | A user contacted support because they could not log into their account. | high | 0.1826 | |
-| 2 | The server CPU usage reached 95% during peak traffic. | Heavy load caused processor utilization to spike on the production machine. | high | 0.1907 | |
-| 3 | The company announced a new electric vehicle model. | Researchers published a paper on marine biology. | low | 0.1336 | Sai |
-| 4 | Students submitted their assignments before the deadline. | The professor received all coursework prior to the due date. | high | 0.2182 | |
+| 1 | The customer forgot their password and requested an account reset. | A user contacted support because they could not log into their account. | high | 0.1826 | Đúng |
+| 2 | The server CPU usage reached 95% during peak traffic. | Heavy load caused processor utilization to spike on the production machine. | high | 0.1907 | Đúng |
+| 3 | The company announced a new electric vehicle model. | Researchers published a paper on marine biology. | low | 0.1336 | Đúng |
+| 4 | Students submitted their assignments before the deadline. | The professor received all coursework prior to the due date. | high | 0.2182 | Đúng |
 | 5 | The stock market closed higher after positive earnings reports. | Rainfall increased significantly across northern regions this week. | low | 0.0000 | Đúng |
 
 **Kết quả nào bất ngờ nhất? Điều này nói gì về cách embeddings biểu diễn nghĩa?**
